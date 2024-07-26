@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/school-website-react/static/css/main.092db2ac.css",
-    "main.js": "/school-website-react/static/js/main.5f9206ff.js",
+    "main.js": "/school-website-react/static/js/main.5ed6dcb1.js",
     "static/js/787.f9a68459.chunk.js": "/school-website-react/static/js/787.f9a68459.chunk.js",
     "static/media/blog9-img.jpg": "/school-website-react/static/media/blog9-img.35be964cf0ea82188ef2.jpg",
     "static/media/art-course.jpg": "/school-website-react/static/media/art-course.d167903288709e7b706a.jpg",
@@ -46,11 +46,11 @@
     "static/media/facility1.jpeg": "/school-website-react/static/media/facility1.eb920dfb2614090bc2a8.jpeg",
     "index.html": "/school-website-react/index.html",
     "main.092db2ac.css.map": "/school-website-react/static/css/main.092db2ac.css.map",
-    "main.5f9206ff.js.map": "/school-website-react/static/js/main.5f9206ff.js.map",
+    "main.5ed6dcb1.js.map": "/school-website-react/static/js/main.5ed6dcb1.js.map",
     "787.f9a68459.chunk.js.map": "/school-website-react/static/js/787.f9a68459.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.092db2ac.css",
-    "static/js/main.5f9206ff.js"
+    "static/js/main.5ed6dcb1.js"
   ]
 }
